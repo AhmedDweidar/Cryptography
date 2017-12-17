@@ -1,9 +1,3 @@
-// Name: Ahmed Dweidar
-// Class: CPSC 370 - Intro to Cryptography - Fall 2015
-// Email: adweidar@live.esu.edu
-// Assignment and purpose: Program 1 - Shift Cipher, encryption and decryption. 
-// Date: September 13th, 2015
-
 // header files
 
 #include <iostream>
